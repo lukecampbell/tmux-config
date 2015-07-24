@@ -9,21 +9,10 @@ Installation
 
   Download:
 
-```bash
-git clone https://github.com/tony/tmux-config.git ~/.tmux-tony
+```
+curl https://raw.githubusercontent.com/lukecampbell/tmux-config/master/install.sh | bash -s stable
 ```
 
-  Copy tmux config to home:
-
-```bash
-ln -s ~/.tmux-tony/.tmux.conf ~/.tmux.conf
-```
-
-  Go to config dir:
-
-```bash
-cd ~/.tmux-tony
-```
 
 Stats
 -----
